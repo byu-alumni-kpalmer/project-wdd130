@@ -7,6 +7,9 @@ p {
    box-sizing: border-box 0;
 }
 
+main img {
+  float: right;
+}
 
 /* Class Sectors */
 
